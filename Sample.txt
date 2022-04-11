@@ -1,0 +1,4 @@
+1. login
+2. Proceed with application
+3. submit the application
+4. check at backend
