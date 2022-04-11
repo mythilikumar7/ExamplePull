@@ -1,4 +1,6 @@
 1. login
 2. Proceed with application
 3. submit the application
-4. check at backend
+4. Payment for the application
+5. Online payment
+6. check at backend
